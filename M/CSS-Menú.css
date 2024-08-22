@@ -647,5 +647,12 @@ footer {
 	.box__footer {
 		flex-direction: column;
 	}
+
+
+	.tabla1 {
+
+		width: 200px;
+		height: 280px;
+	}
 }
 
